@@ -57,7 +57,7 @@ function playSound(key) {
       audio.play();
       break;
     default:
-      alert(key);
+      alert("Entered a wrong key");
 
   }
 }
